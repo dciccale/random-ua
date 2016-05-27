@@ -1,4 +1,4 @@
-# random-ua
+# random-uas
 
 > Get a random user agent string
 

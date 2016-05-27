@@ -1,5 +1,5 @@
 {
-  "name": "random-ua",
+  "name": "random-uas",
   "version": "1.0.0",
   "description": "Get a random user agent string",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/dciccale/random-ua.git"
+    "url": "git@github.com/dciccale/random-uas.git"
   },
   "keywords": [
     "random",
@@ -20,7 +20,7 @@
   "author": "Denis Ciccale (@dciccale)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dciccale/random-ua/issues"
+    "url": "https://github.com/dciccale/random-uas/issues"
   },
-  "homepage": "https://github.com/dciccale/random-ua"
+  "homepage": "https://github.com/dciccale/random-uas"
 }
