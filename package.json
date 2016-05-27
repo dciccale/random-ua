@@ -1,0 +1,26 @@
+{
+  "name": "random-ua",
+  "version": "1.0.0",
+  "description": "Get a random user agent string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/dciccale/random-ua.git"
+  },
+  "keywords": [
+    "random",
+    "ua",
+    "user",
+    "agent",
+    "browser"
+  ],
+  "author": "Denis Ciccale (@dciccale)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dciccale/random-ua/issues"
+  },
+  "homepage": "https://github.com/dciccale/random-ua"
+}
