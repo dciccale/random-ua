@@ -2,8 +2,8 @@
 
 const assert = require('assert');
 const userAgents = require('./uas.json');
-const randomUserAgent = require('./index')();
+const randomUas = require('.')();
 
-assert.notEqual(userAgents.indexOf(randomUserAgent), -1);
+assert.notEqual(userAgents.indexOf(randomUas), -1);
 
 console.log('Passed ✔');
